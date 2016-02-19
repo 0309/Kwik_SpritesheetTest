@@ -1,1 +1,46 @@
-<project id="SpritesheetTest">  <settings>    <name>SpritesheetTest</name>    <media>Book</media>    <device>iPhone</device>    <OS>iOS</OS>    <zoom>zoomStretch</zoom>    <width>640</width>    <height>960</height>    <orientation>Portrait</orientation>    <resolution>326</resolution>    <bookmark>false</bookmark>    <swipe>true</swipe>    <pinch>false</pinch>    <thumbs>false</thumbs>  </settings>  <pages>    <page id="page1">      <name>page1</name>      <number>1</number>      <file>~/Development/Kwik/SpritesheetTest/page1.psd</file>      <fileName>page1.psd</fileName>      <replacement id="Rectangle_1">        <name>Rectangle_1</name>        <type>Sprite Sheet</type>        <layer>Rectangle_1</layer>        <file>~/Development/Kwik/SpritesheetTest/spritesheet.png</file>        <frameWidth>228</frameWidth>        <frameHeight>228</frameHeight>        <externalFile>~/Development/Kwik/SpritesheetTest/spritesheet.lua</externalFile>        <exporter>TexturePacker</exporter>        <frameStart>1</frameStart>        <frameCount>4</frameCount>        <frameLength>1</frameLength>        <loop>forever</loop>        <paused>false</paused>        <direction>true</direction>        <sheetWidth>512</sheetWidth>        <sheetHeight>512</sheetHeight>        <mainSeq>default</mainSeq>        <useSheet>None</useSheet>        <export2>true</export2>      </replacement>    </page>  </pages></project>
+<project id="SpritesheetTest">
+  <settings>
+    <name>SpritesheetTest</name>
+    <media>Book</media>
+    <device>iPhone</device>
+    <OS>iOS</OS>
+    <zoom>zoomStretch</zoom>
+    <width>640</width>
+    <height>960</height>
+    <orientation>Portrait</orientation>
+    <resolution>326</resolution>
+    <bookmark>false</bookmark>
+    <swipe>true</swipe>
+    <pinch>false</pinch>
+    <thumbs>false</thumbs>
+  </settings>
+  <pages>
+    <page id="page1">
+      <name>page1</name>
+      <number>1</number>
+      <file>~/Documents/Kwik/SpritesheetTest/page1.psd</file>
+      <fileName>page1.psd</fileName>
+      <replacement id="Rectangle_1">
+        <name>Rectangle_1</name>
+        <type>Sprite Sheet</type>
+        <layer>Rectangle_1</layer>
+        <file>~/Documents/Kwik/SpritesheetTest/spritesheet.png</file>
+        <frameWidth>228</frameWidth>
+        <frameHeight>228</frameHeight>
+        <externalFile>~/Documents/Kwik/SpritesheetTest/spritesheet.lua</externalFile>
+        <exporter>TexturePacker</exporter>
+        <frameStart>1</frameStart>
+        <frameCount>4</frameCount>
+        <frameLength>1</frameLength>
+        <loop>forever</loop>
+        <paused>false</paused>
+        <direction>true</direction>
+        <sheetWidth>512</sheetWidth>
+        <sheetHeight>512</sheetHeight>
+        <mainSeq>default</mainSeq>
+        <useSheet>None</useSheet>
+        <export2>true</export2>
+      </replacement>
+    </page>
+  </pages>
+</project>
