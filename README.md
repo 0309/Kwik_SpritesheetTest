@@ -1,7 +1,7 @@
 Kwik_SpritesheetTest
 ====================
 
-### [KwikでSpriteSheetを使ったアニメーションを作成する](http://wp.me/p2bA78-h)
+### [Kwik]SpriteSheetを使う](http://wp.me/p2bA78-h)
 
 Kwik ver2.x
 
